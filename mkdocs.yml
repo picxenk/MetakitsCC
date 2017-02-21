@@ -1,0 +1,8 @@
+site_name: Metakits.cc
+theme_dir: custom_theme
+# theme: 'material'
+# pages:
+#     - Home: index.md
+#     - AboutMe: cv.md
+#     - Projects: projects.md
+#     - Memos: memo.md
