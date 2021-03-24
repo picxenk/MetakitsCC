@@ -11,7 +11,7 @@ tags: []
 
 서울예술대학교 디지털아트과 2019년 1학기 전공실습 수업을 위해 p5.js 기반의 Nature of Code 수업을 진행합니다.
 
-수업 페이지 : https://metakits.cc/SIA2019NoC/
+**수업 페이지 :** https://metakits.cc/SIA2019NoC/
 
 과거 2번 정도 Nature of Code 수업을 진행해보고, 몇 가지 개선 방법에 대해 고민하게 되었습니다.
 기본적으로 이 수업의 목표는 아래와 같습니다.
