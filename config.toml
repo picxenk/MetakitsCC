@@ -55,5 +55,6 @@ hrefTargetBlank = true
 "/projects" = "Projects"
 "/teachings" = "Teachings"
 "/writings" = "Writings"
+"/tinkerings" = "Tinkerings"
 
 [params.sections_right]

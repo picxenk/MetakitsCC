@@ -6,7 +6,7 @@ draft: false
 image: "/img/open_avatar/open_avatar_front.png"
 weight: 0
 description: "마음 편하게 쓰는 오픈 라이선스 아바타"
-categories: ["projects"]
+categories: ["tinkerings"]
 tags: []
 ---
 # 이야기의 시작
