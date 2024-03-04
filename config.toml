@@ -2,7 +2,7 @@ baseurl = "https://metakits.cc"
 languageCode = "en"
 title = "Metakits"
 theme = ["kiss"]
-copyright = "&copy; <a href=\"/cv/simple/\">Metakits</a> 2018"
+copyright = "&copy; <a href=\"/cv/simple/\">Metakits</a> 2024"
 disqusShortname = ""
 googleAnalytics = ""
 # Number of posts per page
