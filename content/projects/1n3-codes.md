@@ -17,7 +17,7 @@ tags: []
 
 # drawForth
 
- * 이 워크숍을 위해 [drawForth](https://github.com/picxenk/drawForth)라는 SW키트를 만들었고, http://1n3.metakits.cc 에서 실행해볼 수 있습니다.
+ * 이 워크숍을 위해 [drawForth](https://github.com/picxenk/drawForth)라는 SW키트를 만들었고, https://metakits.cc/drawForth/ 에서 실행해볼 수 있습니다.
  * Forth는 결코 주류의 코딩어가 아닙니다. 70년대에 만들어졌으니 최신의 것도 전혀 아니죠. 흔히 보는 코딩어와도 패러다임이 다릅니다. 그래서 어느정도 프로그래밍 경험이 있는 사람에게도 '낯선 경험'을 줄 수 있습니다.
 
 ![](/img/drawforth.png 'drawForth')

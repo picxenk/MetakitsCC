@@ -11,4 +11,4 @@ tags: []
 ---
 가자지구에 대한 어떤 게임
 
-[가자지구](/doc/gaza/index.html)
+[가자지구](/gaza/index.html)
